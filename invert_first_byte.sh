@@ -1,0 +1,1 @@
+java InvertFirstByte $1
